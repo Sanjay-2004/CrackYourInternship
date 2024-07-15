@@ -32,10 +32,6 @@ Every Problem's first line will have information about which platform the proble
 
 Feel free to fork this repository, make improvements, and submit pull requests. Your contributions are welcome and appreciated!
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Happy coding! Together, let's make this 45-day challenge a success and get ready to nail those internship interviews! 💪🚀
